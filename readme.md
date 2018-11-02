@@ -14,7 +14,7 @@ The project covers these concepts:
  * Pretty links (/about) with fallback to query string (?page=about)
  * Basic example of separation of concerns (functionality, content, template)
 
-If you are a beginner and would like me to explain something in the code, or if you already know PHP and have some recommendation for the project, plese [create an issue](https://github.com/AkashPatel1/sample-site/issues/new) .
+If you are a beginner and would like me to explain something in the code, or if you already know PHP and have some recommendation for the project, please [create an issue](https://github.com/AkashPatel1/sample-site/issues/new) .
 
 ## Lisence
 
